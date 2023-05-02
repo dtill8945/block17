@@ -55,4 +55,4 @@ const coffeeMenu = [
     }
 ]
 
-module.exports = coffeeMenu
+module.exports = coffeeMenu;
